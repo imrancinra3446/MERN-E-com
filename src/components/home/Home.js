@@ -1,7 +1,7 @@
 import React from 'react'
 import CarouselHero from './CarouselHero';
 import Navigation from './Navigation';
-import TopProduct from './TopProduct';
+import TopProduct from '../products/TopProduct';
 
 
 const Home = () => {
